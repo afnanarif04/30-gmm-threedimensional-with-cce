@@ -1,4 +1,4 @@
-# Replication Package — Dynamic Three-Dimensional Common Correlated Effects Estimation
+# Dynamic Three-Dimensional Common Correlated Effects Estimation
 
 ## Research Overview
 
